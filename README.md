@@ -5,11 +5,14 @@ The code is written in Python3 with jupyter notebook.
 
 ## 分析流程圖
 
+![alt text](https://github.com/jeff20628m/classifer_on_Insurance-forecast/blob/master/img/bigdata_Diagram.png)
 
 
-## 結果呈現
+## 結果呈現 
 
+(此為五層決策樹圖形(depth = 5))
 
+![alt text](https://github.com/jeff20628m/classifer_on_Insurance-forecast/blob/master/img/finaltree.pdf)
 
 ## Environment 
 
