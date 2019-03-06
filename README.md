@@ -12,7 +12,7 @@ The code is written in Python3 with jupyter notebook.
 
 (此為五層決策樹圖形(depth = 5))
 
-![alt text](https://github.com/jeff20628m/classifer_on_Insurance-forecast/blob/master/img/finaltree.pdf)
+![alt text](https://github.com/jeff20628m/classifer_on_Insurance-forecast/blob/master/img/finaltree.png)
 
 ## Environment 
 
