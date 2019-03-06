@@ -5,6 +5,10 @@ from sklearn.model_selection import train_test_split
 import graphviz
 from sklearn import ensemble , preprocessing , metrics , svm , tree , linear_model
 from sklearn.neural_network import MLPClassifier
+from keras.utils import np_utils
+from keras.models import Sequential
+from keras.layers import Dense, Activation ,Dropout
+from keras.optimizers import RMSprop ,Adam
 ### training data
 datacust = pd.read_csv ('D:\\bigdata\\training_set\\train_cust_info.csv')
 datatpye = pd.read_csv ('D:\\bigdata\\training_set\\train_tpy_info.csv')
