@@ -19,7 +19,7 @@ The code is written in Python3 with jupyter notebook.
 ![alt text](https://github.com/jeff20628m/classifer_on_Insurance-forecast/blob/master/img/final3tree.png)
 
 
-* [(此為全層決策樹圖形(depth = Max))](https://github.com/jeff20628m/classifer_on_Insurance-forecast/blob/master/img/finalfulltree.png)
+* [(此為全層決策樹圖形(depth = Max))](https://github.com/jeff20628m/classifer_on_Insurance-forecast/blob/master/img/finalfulltree.pdf)
 
 
 ## Environment 
